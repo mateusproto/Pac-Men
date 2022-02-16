@@ -6,7 +6,7 @@ Click to create as many Pac-Men as you want and watch each one move at their own
 
 **How to Run:** 
 
-- Download the files / folder index.html, pacmen.js and images
+- Download the files / folder index.html, pacmen.js, styles.css and images
 
 - Run index.html file in your browser
 
